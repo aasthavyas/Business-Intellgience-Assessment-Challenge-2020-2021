@@ -11,6 +11,7 @@ You are attending the product review meeting on 5th November where the team look
 ![Data](https://github.com/aasthavyas/Business-Intellgience-Assessment-Challenge-2020-2021/blob/master/Data.png "Optional title")
 
 Question: Is the onboarding flow revamp a success? Justify.
+
 3) Personalised Recommendations at FilmiStar
 Part A:
 FilmiStar is India’s #1 app for watching movies. The Product team was tasked with designing a new carousel on the home screen that will show personalised movie recommendations based on the user’s taste. Currently, the home screen shows trending and new movies only.
