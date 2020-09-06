@@ -8,6 +8,7 @@
     ● Added a new “10,000+ items under ₹999” banner on the home screen.
 You are attending the product review meeting on 5th November where the team looks at the following data:
 
+![Data](https://github.com/aasthavyas/Business-Intellgience-Assessment-Challenge-2020-2021/blob/master/Data.png "Optional title")
 
 Question: Is the onboarding flow revamp a success? Justify.
 3) Personalised Recommendations at FilmiStar
